@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Joseph Campbell"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "Data Scientist\nWalmart"
   location         : "New York"
-  employer         : "Walmart"
+  employer         : 
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=zV6UUNUAAAAJ&hl=en"
   email            : "joseph.campbell at columbia.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/joseph-campbell-a6a7a014a/"
+  linkedin         : "joseph-campbell-a6a7a014a/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
