@@ -32,7 +32,6 @@ body {
 
 .content {
     flex: 1;
-    max-width: 600px;
 }
 
 h1 {
